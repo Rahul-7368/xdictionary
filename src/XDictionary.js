@@ -37,7 +37,7 @@ const XDictionary = () => {
                 Search
             </button>
 
-            <h1>Defination:</h1>
+            <h2>Definition:</h2>
 
             <div style={{ marginTop: '20px', fontSize: '18px' }}>
                 {result && <p>{result}</p>}
